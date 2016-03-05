@@ -89,6 +89,12 @@ Em vez de pagarmos uma mensalidade apenas para termos acessos aos livros, já qu
 
 Quem irá escrever é independente, pois o sistema irá dividir a soma recebida por mês, destinada à aquele projeto e irá dividir proporcionalmente entre os autores.
 
+**TODOS OS LIVROS SERÃO CADASTRADOR NA BIBLIOTECA NACIONAL PARA RECEBER SEU ISBN!**
+
+E É ESSA A JOGADA MESTRA!
+
+Quem é aluno de faculdade poderá pedir um ebook sobre um assunto complexo e que a faculdade não está ensinando direito, nesse caso nossos autores farão o ebook e o aluno poderá usá-lo em seus trabalhos acadêmicos pois eles terão o famigerado **ISBN**.
+
 
 
 
