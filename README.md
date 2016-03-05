@@ -95,10 +95,15 @@ E É ESSA A JOGADA MESTRA!
 
 Quem é aluno de faculdade poderá pedir um ebook sobre um assunto complexo e que a faculdade não está ensinando direito, nesse caso nossos autores farão o ebook e o aluno poderá usá-lo em seus trabalhos acadêmicos pois eles terão o famigerado **ISBN**.
 
+### eBooks
 
+A quantidade de alunos necessária para fechar 1 ebook irá depender tanto da complexidade do assunto como do prazo.
 
+#### Acadêmicos
 
+A quantidade necessária para fechar o projeto de 1 ebook será um calculo pela % de alunos universitários do nosso sistema, sendo sempre o mínimo 30.
 
+A quantidade de apoiadores é que definirá a quantidade de autores que o livro pode ter e seu prazo, que obviamente será validado pelos autores.
 
 
 
