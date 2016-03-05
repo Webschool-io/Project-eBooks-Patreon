@@ -81,7 +81,7 @@ Para mim, Suissa, **a única solução contra a pirataria é dar de graça!**
 
 > Ah mas como assim Suissa daí o autor não ganhará nada?
 
-Então e se fosse uma forma de Netflix?
+E se fosse uma forma de Netflix?
 
 > Como?
 
@@ -89,7 +89,7 @@ Em vez de pagarmos uma mensalidade apenas para termos acessos aos livros, já qu
 
 Quem irá escrever é independente, pois o sistema irá dividir a soma recebida por mês, destinada à aquele projeto e irá dividir proporcionalmente entre os autores.
 
-**TODOS OS LIVROS SERÃO CADASTRADOR NA BIBLIOTECA NACIONAL PARA RECEBER SEU ISBN!**
+**TODOS OS LIVROS SERÃO CADASTRADOS NA BIBLIOTECA NACIONAL PARA RECEBER SEU ISBN!**
 
 E É ESSA A JOGADA MESTRA!
 
