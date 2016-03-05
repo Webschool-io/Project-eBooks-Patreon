@@ -70,3 +70,29 @@ pq aquele conteudo iria servir para qquer curso
 Suissera Veio, [05.03.16 02:35]
 Entendeu man?
 ```
+
+## Problema
+
+Caso você seja um autor e vender seu livro também de forma digital, ebook, sabe que é fácil e com certeza acontecerá, piratearem seu livro.
+
+## Solução
+
+Para mim, Suissa, **a única solução contra a pirataria é dar de graça!**
+
+> Ah mas como assim Suissa daí o autor não ganhará nada?
+
+Então e se fosse uma forma de Netflix?
+
+> Como?
+
+Em vez de pagarmos uma mensalidade apenas para termos acessos aos livros, já que esses serão gratuitos, pagaremos para podermos pedir até 2 ebooks por ano.
+
+Quem irá escrever é independente, pois o sistema irá dividir a soma recebida por mês, destinada à aquele projeto e irá dividir proporcionalmente entre os autores.
+
+
+
+
+
+
+
+
